@@ -969,15 +969,15 @@ span{
         font-size: 2vw;
         color: #F24139;
     }
-    #fifth>.media>.icons{
+    #sixth>.media>.icons{
         width: 90%;
         display: flex;
         justify-content: space-around;
     }
     
-    #fifth>.media>.icons>img{
-        height: 16vw;
-        width: 16vw;
+    #sixth>.media>.icons>img{
+        height: 14vw;
+        width: 14vw;
         padding: 20px;
         background-color:#D3CED7;
         border-radius: 10px;
